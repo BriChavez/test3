@@ -20,3 +20,11 @@ expected output: beep,boop,wont you be my neighbor?,4"
 test: it will output all numbers until the inputted one with the correct numbers replaced.
 code: numbers
 expected output: beep,boop,wont you be my neighbor?,4"
+
+
+Discribe: input
+
+Test: it will create a form for the user to input a number
+Code: input
+Expected Output: "any number"
+

@@ -4,8 +4,9 @@
   
  
  let numArray = [];
+ let input;
 
-
+ function translator(input) {
   for (let index = 0; index <= input; index++) {
     if(index.toString().includes(3)) {
       numArray[index] = "Won't you be my neighbor?";
@@ -18,7 +19,9 @@
       }
     else {
     numArray[index] = index.toString();
-  } 
-  console.log(numberArray);
+    } 
+    results.show();
+    console.log(numArray);
+  }
 }
 
