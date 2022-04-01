@@ -1,12 +1,10 @@
 $(document).ready(function() {
-
   $("#userInput").submit(function(event) {
     event.preventDefault();
     const output = $("#input").val();
     $("#output").text(translator(output));
   });
 })
-
 function translator(number) {
   const numArray = [];
   for (let index = 0; index <= number; index ++) {

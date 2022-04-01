@@ -36,7 +36,7 @@ This application will take any inputted number, count it out each number at time
 
 ## Known Bugs
 
-* No known bugs
+* There might be a problem with my css file. 
 
 ## Tests
 
