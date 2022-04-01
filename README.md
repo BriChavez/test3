@@ -1,8 +1,10 @@
-# _Test 3: Translator_
+# Test 3: Translator
 
-#### By _Bri Chavez_
+#### By Bri Chavez
 
-#### _Translates entered number to an array of words and numbers_
+### https://github.com/BriChavez
+
+#### Translates entered number to an array of words and numbers
 
 ## Technologies Used
 
@@ -14,7 +16,7 @@
 
 ## Description
 
-_This application will take any inputted number, count it out each number at time until it reaches the inputted number. It will then take every number containing a thre and will replace it will you be my neighbor. twos get replaced with a boop, and ones with a beep. it will then list it all back to the user._
+This application will take any inputted number, count it out each number at time until it reaches the inputted number. It will then take every number containing a thre and will replace it will you be my neighbor. twos get replaced with a boop, and ones with a beep. it will then list it all back to the user.
 
 ## Setup/Installation Requirements
 
