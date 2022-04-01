@@ -12,6 +12,9 @@
       console.log(numArray);
     } else if (index.toString().includes(2)) {
       numArray[index] = "Boop!";
+    }
+    else if (index.toString().includes(1)) {
+      numArray[index] = "Beep";
+      }
   } 
 
-  }
