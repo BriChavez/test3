@@ -16,5 +16,9 @@
     else if (index.toString().includes(1)) {
       numArray[index] = "Beep";
       }
+    else {
+    numArray[index] = index.toString();
   } 
+  console.log(numberArray);
+}
 
